@@ -33,7 +33,6 @@ In terminal of preference, go to directory you want the repository to be added. 
 ```
 git clone https://github.com/catthiba/project-thesis.git
 ```
-Direct into the folder project-thesis, and then to the folder src. 
 
 ### Conda
 
