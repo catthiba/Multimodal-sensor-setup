@@ -31,7 +31,7 @@ It is good practice to use virtual environments, in order to have control of the
 ### Clone Repository 
 In terminal of preference, go to directory you want the repository to be added. To clone the repository run the command:
 ```
-git clone https://github.com/catthiba/project-thesis.git
+git clone https://github.com/catthiba/Multimodal-sensor-setup.git
 ```
 
 ### Conda
